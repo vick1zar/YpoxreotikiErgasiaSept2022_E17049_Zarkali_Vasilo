@@ -1,0 +1,19 @@
+[{
+    "_id":"AT2022082210",
+    "departure": "Athens",
+    "destination": "Thessaloniki",
+    "date": "22/08/2022 10:00",
+    "price": "10",
+    "flightTime":"1",
+    "tickets":"220"
+},
+{
+    "_id":"TA2022082211",
+    "departure": "Thessaloniki",
+    "destination": "Athens",
+    "date": "22/08/2022 11:00",
+    "price": "10",
+    "flightTime":"1",
+    "tickets":"220"
+}
+]
