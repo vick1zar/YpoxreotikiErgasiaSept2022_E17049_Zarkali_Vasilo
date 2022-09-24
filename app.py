@@ -93,7 +93,6 @@ def checkIsAdmin(someUuid):
 @app.route('/login', methods=['POST'])
 def login():
     # Request JSON data
-    print('login')
     data = None
     try:
         data = json.loads(request.data)
@@ -118,7 +117,7 @@ def login():
                             elif x['category']=="admin":
                                 newpassword = data['newpassword']
                                 users.update_one({'name':name},{"$set":{"password":newpassword}})
-                                user_uuid = create_session(email)
+                                user_uuid = create_session(x['email'])
                                 res = {"uuid": user_uuid, "email": x['email']}
                                 return Response(json.dumps(res), mimetype='application/json', status=200)
                         elif x['enabled']=="1":
@@ -310,7 +309,7 @@ def getBooking():
                         flightsList2.append(iteratingDict3)
                              
                         return Response(json.dumps(flightsList2), status=200, mimetype='application/json')
-            return Response("user does no exist", status=401)
+            return Response("id does no exist", status=401)
         return Response("user is not authenticated", status=401, mimetype='application/json')
 
 #ΕΡΩΤΗΜΑ 6: Ακύρωση Κράτησης
