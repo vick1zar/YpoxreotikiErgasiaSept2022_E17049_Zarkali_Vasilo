@@ -1,0 +1,16 @@
+[{
+    "name": "Vasiliki",
+    "email": "vasiliki@domain.com",
+    "password": "12345",
+    "category": "admin",
+    "enabled":"0"
+},
+{
+    "name": "vas",
+    "email": "vas@domain.com",
+    "password": "12345",
+    "category": "user",
+    "passport":"AB1234567",
+    "enabled":"0"
+}
+]
