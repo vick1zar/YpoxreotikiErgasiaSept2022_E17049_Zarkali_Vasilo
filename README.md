@@ -95,5 +95,19 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 7: getBookingDate/User 
 Ομοίως με πριν, η διαδικασία έχει ως εξής:  
 
+### Ascending getBookingDate - Postman 
+![](screenshots/getBookingDate_1.jpg)    
+
+### Descending getBookingDate - Postman 
+![](screenshots/getBookingDate_2.jpg)    
+
+## Ερώτημα 8: getBookingPrice/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+
+
+
+
+
+
 
 
