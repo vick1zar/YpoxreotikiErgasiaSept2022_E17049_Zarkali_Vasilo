@@ -62,7 +62,21 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ### Αποτυχημένο getFlight (destination doesnt exist) - Postman  
 ![](screenshots/getFlight_3.jpg)  
 
-## Ερώτημα 3: Booking/User 
+## Ερώτημα 4: Booking/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:
+
+### Επιτυχημένo booking - Postman  
+![](screenshots/booking_1.jpg)  
+
+### Επιτυχημένo booking - Mongo 
+![](screenshots/booking_3.jpg)  
+
+### Αποτυχημένο booking (wrong id) - Postman 
+![](screenshots/booking_2.jpg) 
+
+## Ερώτημα 5: getBooking/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+
 
 
 
