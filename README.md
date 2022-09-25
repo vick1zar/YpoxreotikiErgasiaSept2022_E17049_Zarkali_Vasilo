@@ -123,7 +123,10 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 Ομοίως με πριν, η διαδικασία έχει ως εξής:
 
 ### Επιτυχημένo disableAccount - Postman
-![](screenshots/.jpg)  
+![](screenshots/disableAccount_1.jpg)    
+
+### Επιτυχημένo disableAccount - Postman
+![](screenshots/disableAccount_2.jpg)  
 
 
 
