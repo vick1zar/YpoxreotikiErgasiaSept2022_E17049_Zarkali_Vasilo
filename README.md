@@ -46,4 +46,8 @@
 ### Αποτυχημένο Login (failure = wrong name) - Postman  
 ![](screenshots/login_1.jpg)  
 
+## Ερώτημα 3: getFlight/User    
+H υλοποίηση του ερωτήματος προϋποθέτει τη σύνδεση στο σύστημα, η οποία πραγματοποιείται κάνοντας αντιγραφή το uuid που δόθηκε ως  output κατά το login και τη δήλωση του στους headers του Postman.  
+
+
 
