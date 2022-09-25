@@ -113,10 +113,17 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ### Επιτυχημένo getBookingDestination - Postman
 ![](screenshots/getBookingDestination_1.jpg)   
 
+### Επιτυχημένo getBookingDestination - Mongo
+![](screenshots/getBookingDestination_3.jpg)   
+
 ### Αποτυχημένο getBookingDestination (destination doesnt exist) - Postman
 ![](screenshots/getBookingDestination_2.jpg) 
+ 
+## Ερώτημα 10: getBookingDestination/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:
 
-
+### Επιτυχημένo disableAccount - Postman
+![](screenshots/.jpg)  
 
 
 
