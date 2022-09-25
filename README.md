@@ -110,6 +110,12 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 9: getBookingDestination/User 
 Ομοίως με πριν, η διαδικασία έχει ως εξής:  
 
+### Επιτυχημένo getBookingDestination - Postman
+![](screenshots/getBookingDestination_1.jpg)   
+
+### Αποτυχημένο getBookingDestination (destination doesnt exist) - Postman
+![](screenshots/getBookingDestination_2.jpg) 
+
 
 
 
