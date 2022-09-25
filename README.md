@@ -128,6 +128,18 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ### Επιτυχημένo disableAccount - Postman
 ![](screenshots/disableAccount_2.jpg)  
 
+## Ερώτημα 11: enableAccount/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+
+### Επιτυχημένo enableAccount - Postman
+![](screenshots/enableAccount_1.jpg)   
+
+### Επιτυχημένo enableAccount - Postman
+![](screenshots/enableAccount_2.jpg)   
+
+## Ερώτημα 12: createAdmin/Admin
+Ομοίως με πριν, η διαδικασία έχει ως εξής: 
+
 
 
 
