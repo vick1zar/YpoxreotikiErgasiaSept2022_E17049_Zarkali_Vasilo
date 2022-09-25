@@ -92,5 +92,8 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ### Επιτυχημένo deleteBooking - Mongo
 ![](screenshots/deleteBooking_2.jpg) 
 
+## Ερώτημα 7: getBookingDate/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+
 
 
