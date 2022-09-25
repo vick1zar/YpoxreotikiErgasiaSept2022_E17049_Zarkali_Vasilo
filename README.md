@@ -140,6 +140,21 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 12: createAdmin/Admin
 Ομοίως με πριν, η διαδικασία έχει ως εξής: 
 
+### Επιτυχημένo createAdmin - Postman
+![](screenshots/createAdmin_1.jpg)   
+
+### Επιτυχημένo createAdmin - Mongo
+![](screenshots/createAdmin_2.jpg) 
+
+### Επιτυχημένo createAdmin - Postman
+![](screenshots/createAdmin_3.jpg)   
+
+## Ερώτημα 13: addFlight/Admin
+Ομοίως με πριν, η διαδικασία έχει ως εξής: 
+
+
+  
+
 
 
 
