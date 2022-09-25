@@ -152,6 +152,16 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 13: addFlight/Admin
 Ομοίως με πριν, η διαδικασία έχει ως εξής: 
 
+### Επιτυχημένo addFlight - Postman
+![](screenshots/addFlight_1.jpg)   
+
+### Επιτυχημένo addFlight - Mongo
+![](screenshots/addFlight_2.jpg)    
+
+## Ερώτημα 14: updateFlight/Admin
+Ομοίως με πριν, η διαδικασία έχει ως εξής: 
+
+
 
   
 
