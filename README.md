@@ -161,6 +161,21 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 14: updateFlight/Admin
 Ομοίως με πριν, η διαδικασία έχει ως εξής: 
 
+### Επιτυχημένo updateFlight - Postman
+![](screenshots/updateFlight_1.jpg)  
+
+### updateFlight before - Mongo
+![](screenshots/updateFlight_2.jpg)  
+
+### updateFlight after - Mongo
+![](screenshots/updateFlight_3.jpg)   
+
+### Αποτυχημένο updateFlight (negative price) - Postman
+![](screenshots/updateFlight_4.jpg)   
+
+## Ερώτημα 15: deleteFlight/Admin
+Ομοίως με πριν, η διαδικασία έχει ως εξής: 
+
 
 
   
