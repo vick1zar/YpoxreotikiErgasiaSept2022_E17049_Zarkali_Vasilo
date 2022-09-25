@@ -22,10 +22,10 @@
 ### Επιτυχημένη Εγγραφή - Mongo   
 ![](screenshots/createUser_4.jpg)  
 
-### Αποτυχημένη Εγγραφή (failure = name) - Postman
+### Αποτυχημένη Εγγραφή (failure = existing name) - Postman
 ![](screenshots/createUser_2.jpg)  
 
-### Αποτυχημένη Εγγραφή (failure = passport) - Postman  
+### Αποτυχημένη Εγγραφή (failure = existing passport) - Postman  
 ![](screenshots/createUser_3.jpg)  
 
 ### Αποτυχημένη Εγγραφή (failure = passport form) - Postman     
@@ -40,10 +40,10 @@
 ### Επιτυχημένo Login (username) - Postman   
 ![](screenshots/login_4.jpg)    
 
-### Αποτυχημένο Login (failure = password) - Postman  
+### Αποτυχημένο Login (failure = wrong password) - Postman  
 ![](screenshots/login_3.jpg)    
 
-### Αποτυχημένο Login (failure = name) - Postman  
+### Αποτυχημένο Login (failure = wrong name) - Postman  
 ![](screenshots/login_1.jpg)  
 
 
