@@ -104,6 +104,12 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 8: getBookingPrice/User 
 Ομοίως με πριν, η διαδικασία έχει ως εξής:  
 
+### getBookingPrice - Postman 
+![](screenshots/getBookingPrice.jpg)  
+
+## Ερώτημα 9: getBookingDestination/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+
 
 
 
