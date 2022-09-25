@@ -84,7 +84,13 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ![](screenshots/getBooking_2.jpg) 
 
 ## Ερώτημα 6: deleteBooking/User 
-Ομοίως με πριν, η διαδικασία έχει ως εξής:  
+Ομοίως με πριν, η διαδικασία έχει ως εξής:   
+
+### Επιτυχημένo deleteBooking - Postman 
+![](screenshots/deleteBooking_1.jpg)   
+
+### Επιτυχημένo deleteBooking - Mongo
+![](screenshots/deleteBooking_2.jpg) 
 
 
 
