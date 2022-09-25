@@ -62,6 +62,8 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ### Αποτυχημένο getFlight (destination doesnt exist) - Postman  
 ![](screenshots/getFlight_3.jpg)  
 
+## Ερώτημα 3: Booking/User 
+
 
 
 
