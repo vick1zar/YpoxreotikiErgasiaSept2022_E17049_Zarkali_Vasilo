@@ -176,10 +176,17 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 15: deleteFlight/Admin
 Ομοίως με πριν, η διαδικασία έχει ως εξής: 
 
+### Επιτυχημένo deleteFlight - Postman
+![](screenshots/deleteFlight_1.jpg)  
+
+### Επιτυχημένo deleteFlight - Mongo
+![](screenshots/deleteFlight_2.jpg)   
+
+### Αποτυχημένο deleteFlight (wrong id) - Postman
+![](screenshots/deleteFlight_3.jpg)  
 
 
-  
-
+Η διαδικασία που ακολουθεί στη συνέχεια είναι να γίνει docker compose η εργασία. Αφού εγκαταστήσουμε το vmware και το ubuntu, κάνουμε επικόλληση τους κώδικες docker σε τρια διαφορετικά σκριπτς. Ύστερα, docker build το app.py ωστε να φτιαχτεί το image της εργασίας και εν τέλει docker compose up.
 
 
 
