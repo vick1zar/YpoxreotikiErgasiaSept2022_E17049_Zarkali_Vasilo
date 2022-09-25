@@ -37,7 +37,7 @@
 ### Επιτυχημένo Login (email) - Postman  
 ![](screenshots/login_2.jpg)  
 
-### Επιτυχημένo Login (username) - Postman   
+### Επιτυχημένo Login (name) - Postman   
 ![](screenshots/login_4.jpg)    
 
 ### Αποτυχημένο Login (failure = wrong password) - Postman  
