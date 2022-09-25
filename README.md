@@ -31,10 +31,12 @@
 ### Επιτυχημένη Εγγραφή - Mongo   
 ![](screenshots/createUser_4.jpg)  
 
-### Αποτυχημένη Εγγραφή (failure=name) - Postman
+### Αποτυχημένη Εγγραφή (failure = name) - Postman
 ![](screenshots/createUser_2.jpg)  
 
-### Αποτυχημένη Εγγραφή (failure=passport) - Postman  
+### Αποτυχημένη Εγγραφή (failure = passport) - Postman  
 ![](screenshots/createUser_3.jpg)  
 
+### Αποτυχημένη Εγγραφή (failure = passpor form) - Postman     
+![](screenshots/createUser_5.jpg)  
 
