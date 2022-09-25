@@ -77,7 +77,14 @@ H υλοποίηση του ερωτήματος προϋποθέτει τη σ�
 ## Ερώτημα 5: getBooking/User 
 Ομοίως με πριν, η διαδικασία έχει ως εξής:  
 
+### Επιτυχημένo getBooking - Postman 
+![](screenshots/getBooking_1.jpg) 
 
+### Αποτυχημένο getBooking (wrong id) - Postman 
+![](screenshots/getBooking_2.jpg) 
+
+## Ερώτημα 6: deleteBooking/User 
+Ομοίως με πριν, η διαδικασία έχει ως εξής:  
 
 
 
